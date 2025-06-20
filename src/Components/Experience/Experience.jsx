@@ -71,14 +71,14 @@ const Experience = () => {
             <div className="text-white h-[150px]"><img className="h-10" src={logo} alt="About img"/>FelixIts</div>
             <span className="text-white">
               <h2 className="leading-tight">
-                Software Engineer,FelixIts System
+                Full Stack Deveoper Course in FelixIt System Pune
               </h2>
               <p className="text-sm font-thin leading-tight">
                 Aug 2024 - Feb 2025
               </p>
               <ul className="p-2 text-sm">
-                <li>- Work as software developer.</li>
-                <li>- Junior SoftWare Developer</li>
+                <li>- Training in FrontEnd Developer</li>
+                <li>- Traineing in Backend Developer</li>
               </ul>
             </span>
           </div>
@@ -89,3 +89,4 @@ const Experience = () => {
 };
 
 export default Experience;
+

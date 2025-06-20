@@ -9,7 +9,7 @@ const Projects = () => {
       <div className="py-12 px-8 flex flex-wrap gap-5 items-center justify-center">
         <ProjectCard 
           title="Portfolio"
-          main="This Portfolio website is totally build in Html Css, React js, Tailwind Css, one or more section are thre in this web site you can see in my github"
+          main="This Portfolio website is totally build in Html, Css, React js, Tailwind Css, one or more section are there in this web site you can see in my github"
         />
         <ProjectCard2  title="Online Courses"
           main="This website is totally build in html css,React js, Python, Django one or more section are there in this web site you can see in my github"/>
